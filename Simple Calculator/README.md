@@ -1,2 +1,2 @@
 "# Calculator" 
-[Calculator Pages Link](https://github.com/Mally13/Javascript/tree/main/Simple%20Calculator)
+[Calculator Pages Link](https://mally13.github.io/Javascript/Simple%20Calculator/index.html)
