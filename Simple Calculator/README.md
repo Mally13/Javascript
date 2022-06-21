@@ -1,1 +1,2 @@
-"# Pages-Link = https://github.com/Mally13/Javascript/tree/main/Simple%20Calculator" 
+"# Calculator" 
+[Calculator Pages Link](https://github.com/Mally13/Javascript/tree/main/Simple%20Calculator)
