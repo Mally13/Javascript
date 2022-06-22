@@ -3,14 +3,15 @@ let myDetails={
     height:"5'",
     country:"Kenya"
 }
-showMyDetailse(myDetails)
+showMyDetails(myDetails)
 console.log(myDetails.name)
 console.log(myDetails.height)
 console.log(myDetails.country)
 
-function showMyDetailse(myDetails) {
+function showMyDetails(myDetails) {
     document.getElementById('heading').textContent ="Here are my details:";
     document.getElementById('name').textContent = myDetails.name;
     document.getElementById('height').textContent = myDetails.height;
     document.getElementById('country').textContent = myDetails.country;
+    alert(`Here are my details:\n${myDetails.name}\n${myDetails.height}\n${myDetails.country}` );
 }
